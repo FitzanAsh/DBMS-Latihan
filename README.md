@@ -1,1 +1,1 @@
-Query Sql DBMS
+Mata Kuliah Management Database Client Server
